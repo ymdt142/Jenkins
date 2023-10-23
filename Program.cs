@@ -13,6 +13,7 @@ namespace ProjectName
         {
 //comment for testttt
 //INCLIUDED LOG4NET
+//this is for main with new pipeline
             Console.WriteLine("give value for a and b");
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
