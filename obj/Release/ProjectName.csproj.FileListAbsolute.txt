@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ProjectName\bin\Release\ProjectName.dll.config
+C:\Users\User\source\repos\ProjectName\bin\Release\ProjectName.dll
+C:\Users\User\source\repos\ProjectName\bin\Release\ProjectName.pdb
+C:\Users\User\source\repos\ProjectName\obj\Release\ProjectName.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectName\obj\Release\ProjectName.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectName\obj\Release\ProjectName.dll
+C:\Users\User\source\repos\ProjectName\obj\Release\ProjectName.pdb
